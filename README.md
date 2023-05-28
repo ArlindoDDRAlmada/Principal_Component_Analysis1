@@ -2,4 +2,6 @@
 
 Applying Principal Component Analysis
 
-Countries...
+Please open the file: PCA.ipynb
+
+Working on descripion...
